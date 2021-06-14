@@ -11,7 +11,7 @@ Tipo_sexo="F"
 civil=True
 
 #COLECCIONES
-usuario=('dchiki','1234','chiki@gmail.com')
+usuario=('dchiki','4545','chiki@gmail.com')
 materias=['Programacion Web','PHP','POO']
 docente={'nombre':'Daniel','edad':50,'fac':'facil'}
 print("""Mi nombre es {}, tengo {}
