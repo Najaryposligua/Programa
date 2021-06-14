@@ -28,14 +28,14 @@ class Sintaxis:
         #Sintaxis.instancia=sintaxis.instancia+1
     
     def userVariable(self):
-        edad, _peso= 50, 70.50
-        nombres="Daniel Vera"
+        edad, _peso= 30, 68,50
+        nombres="Bairon Reyes"
         Tipo_sexo="M"
         civil=True
         #Tuplas =() son colecciones de datos de cualquier tipo inmutables
         
         usuario=()
-        usuario=("dchiki",1234,'chiki@gmail.com',True)
+        usuario=("Breyes",7986,'bareca90@gmail.com',True)
         #usuario[3]=milagro
         #listas=[] colecciones mutables
         materias=[]
