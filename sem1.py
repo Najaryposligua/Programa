@@ -3,9 +3,9 @@ print("Ejercicios diapositiva 1")
 edad, _peso= 50, 70.5
 
 #STRING
-nombres='Daniel Vera'
-dirDomiciliaria ="Chile y Guayaquil"
-Tipo_sexo="M"
+nombres='Najary Posligua   '
+dirDomiciliaria ="Guasmo Sur"
+Tipo_sexo="F"
 
 #BOOLEAN
 civil=True
