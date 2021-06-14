@@ -18,8 +18,8 @@ def _init_(self,dato="Inicializacion"):
     #Sintaxis.instancia = Sintaxis.instancia+1
 
 def usoDeVariables(self):
-    edad, _peso = 35, 76,5
-    nombres= "Carlos Nolivos"
+    edad, _peso = 20, 74,5
+    nombres= "Carlos Torres"
 
     Sexo='M'
     ConddicionCivil= True
@@ -27,7 +27,7 @@ def usoDeVariables(self):
      #tuplas =() son coleccioones de datos de cualquier tipo inmutable
   # tuplas =() son coleccioones de datos de cualquier tipo inmutable
     usuario = ()
-    usuario = ('Cnolivos', 1234123, 'Cnolivos@gmail.com', True)
+    usuario = ('Ctorres', 1234123, 'ctorres@gmail.com', True)
     #usuario[3]="milagro"
     # listas = [] colecciones mutables 
     materias= []
